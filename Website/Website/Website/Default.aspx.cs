@@ -53,5 +53,10 @@ namespace Website
         {
             UpdateReadings();
         }
+
+        protected void btnRefresh_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
