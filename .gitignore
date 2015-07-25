@@ -41,3 +41,23 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.config
+*.dll
+*.cache
+Website/Website/Website/obj/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Website/Website/Website/obj/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+*.txt
+*.pdb
+*.pubxml
+Website/Website/Website/obj/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Website/Website/Website/obj/Release/Package/PackageTmp/Default.aspx
+Website/Website/Website/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Website/Website/Website/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Website/Website/Website/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Website/Website/Website/Properties/PublishProfiles/Seb.pubxml.user
+*.xml
+*.nupkg
+*.targets
+*.ps1
+Website/Website/packages/AjaxControlToolkit.7.1213/content/web.config.transform
+*.suo
